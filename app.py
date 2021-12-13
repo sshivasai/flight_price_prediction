@@ -1,5 +1,4 @@
 from flask import Flask, request, render_template
-import sklearn
 import pickle
 import pandas as pd
 
